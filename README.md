@@ -45,7 +45,7 @@ Users will be store managers / staff with unknown or limited technical knowledge
 
 ## SignIQ TV Remote Controls ##
 
-![SignIQ TV Controls](/image/signiq_tv_controls.png "SignIQ TV Controls")
+![SignIQ TV Controls](https://github.com/itroy/signiq-ob/blob/master/images/signig_tv_controls.png?raw=true "SignIQ TV Controls")
 
 ### Project Technologies ###
 I'll be using a standard base of [Node.js](https://nodejs.org/ "Node.js") and [npm](https://www.npmjs.com/ "npm") to set everything up.
