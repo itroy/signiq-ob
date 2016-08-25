@@ -25,6 +25,8 @@ Users will be store managers / staff with unknown or limited technical knowledge
 
 ## Icon Set ##
 
+![SignIQ TV Icons](https://github.com/itroy/signiq-ob/blob/master/images/Icons.png?raw=true "SignIQ TV Icons")
+
 - ico_left_circle
 - ico_right_circle
 - ico_connect
